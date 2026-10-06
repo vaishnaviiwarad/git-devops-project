@@ -6,3 +6,8 @@ function login(username) {
 }
 
 module.exports = { login };
+
+function logout(username) { console.log('User logged out'); }
+
+login('Vaishnavi');
+logout('Vaishnavi');
