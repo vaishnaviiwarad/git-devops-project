@@ -1,0 +1,11 @@
+{
+  "name": "git-devops-project",
+  "version": "1.0.0",
+  "description": "DevOps Version Control Project with Git and GitHub",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vaishnavi Warad",
+  "license": "MIT"
+}
